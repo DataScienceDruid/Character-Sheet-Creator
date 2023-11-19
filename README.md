@@ -1,6 +1,6 @@
 # Character Sheet Creator
 ## Overview
-* Character Builder
+* Character Builder for D&D
 * Developed in C++ & Python
 * Built off of CLI template from Lisa Dion
 * Required dependencies
